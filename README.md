@@ -181,7 +181,7 @@ tests/
   job_que.ts          ← Comprehensive test suite
 scripts/
   common.ts           ← Shared helpers, PDA derivation, job fetching
-  Cli.ts            ← Owner cli
+  Cli.ts              ← Owner cli
   owner.ts            ← Owner simulation (posts jobs, prints dashboard)
   worker.ts           ← Worker simulation (polls, claims, completes/fails)
 ```
