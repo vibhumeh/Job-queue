@@ -1,0 +1,3 @@
+ts-node tests/owner.ts keys/owner.json FsyncXtTtFykRFsHDUK1xMmtz6A1okeRZW4BmaBz4m5c Hzk8ijFmYVYNZutgwY5KZcMdAteWk8UmgDeGMQQTxChY
+
+ts-node tests/worker.ts keys/worker1.json 7isN372aFuLwGyqsdd54xhWccmepov715myNicf2GrYy
